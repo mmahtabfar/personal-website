@@ -1,0 +1,18 @@
+baseURL = 'https://mahyarmahtabfar.com/'
+languageCode = 'en-us'
+title = 'Mahyar Mahtabfar'
+theme = 'hugo-resume'
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Miami, FL"
+email = "mmahtabfar03@gmail.com"
+firstName = "Mahyar"
+lastName = "Mahtabfar"
+phone = "1-305-793-8187"
+profileImage = "img/image.png"
+showQr = false
+showContact = false
